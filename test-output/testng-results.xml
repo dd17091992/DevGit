@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24077" started-at="2017-09-16T12:44:52Z" finished-at="2017-09-16T12:45:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24077" started-at="2017-09-16T12:44:52Z" finished-at="2017-09-16T12:45:16Z">
+      <class name="com.pack.DevGit.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pack.DevGit.NewTest@3ffc5af1]" name="beforeClass" is-config="true" duration-ms="23191" started-at="2017-09-16T18:14:52Z" finished-at="2017-09-16T18:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.pack.DevGit.NewTest@3ffc5af1]" name="f" duration-ms="10" started-at="2017-09-16T18:15:15Z" finished-at="2017-09-16T18:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pack.DevGit.NewTest@3ffc5af1]" name="afterClass" is-config="true" duration-ms="846" started-at="2017-09-16T18:15:15Z" finished-at="2017-09-16T18:15:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pack.DevGit.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
