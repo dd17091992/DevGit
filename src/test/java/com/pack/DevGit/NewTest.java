@@ -26,7 +26,7 @@ public class NewTest
 	  driver.get("https://dev.tracko.co.in/");
 	  
 	  driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-	  driver.manage().window().maximize(); 
+	  
   }
 
   @AfterClass
